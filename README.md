@@ -1,6 +1,6 @@
-# Misty
+# Sarah
 
-<img src="misty.png" alt="Misty Banner" width="100%" />
+<img src="Sarah.png" alt="Sarah Banner" width="100%" />
 
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
@@ -45,7 +45,7 @@ pnpm i
 pnpm start
 ```
 
-# Customising Misty
+# Customising Sarah
 
 ### Adding custom actions
 
